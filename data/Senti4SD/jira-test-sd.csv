@@ -1,0 +1,279 @@
+Text,Polarity
+"It may cause conflicts, but if your intent is to break system security, you probably don't care.",negative
+"Thanks, Amar!",positive
+"This was a very bad bug, introduced by me being an idiot.",negative
+Didn't got the time to try it yet.,negative
+Pull it back in if you think different.,negative
+Why the hell is this not a bug?,negative
+the recommendation in the wiki is bad.,negative
+I'm confused.,negative
+"I was in too much of a hurry, sorry hold on a sec.",negative
+Sorry for the noise.,negative
+It really sucks that there is now way currently to include transitive dependencies.,negative
+"Thanks,Mayank",positive
+Thanks Uwe!,positive
+Thanks!,positive
+My bad.,negative
+"I don't care if everything is pretty or not, but we should at least support basic admin functionality in IE IMO (though I have not used it for years for just about anything).",negative
+Is that ok for this file (b/c I have no idea how to do the svn move now ... after I've made all the changes already) :),positive
+"My bad, I screwed up the assertion -> RuntimeException transition.",negative
+Regex is your friend.,positive
+Pull it back in if you think different.,negative
+"In fact, if you happen to know why ObserverHammerQuorumTest is failing with this latest patch, I'd love to hear.",positive
+My bad.,negative
+"sorry old xml here is the used one:<?xml version=""1.0"" encoding=""UTF-8""?><root><value>?¤?¶?¼ und ??????",negative
+You're results are awesome Paul. Great work :)Looking forward to see your new JSON parser in trunk whenever you think is ready.,positive
+This is Awesome Stefan - thanks a million!,positive
+My bad.,negative
+Thanks for fixing it so quickly!,positive
+"Hi Sagara,Thank you very much for looking into this.",positive
+"Sorry typo:  ""our part"" in place of  ""one part"" above.",negative
+"Sorry, I meant to have this patch in sooner but got quite busy, I expect to have it soon.",negative
+Yes exactly -- sorry to be so unclear.,negative
+Weird.,negative
+I think you made mistakes in ivy.xml.,negative
+Thanks for your patience.,positive
+Thanks Sijie.,positive
+"Thanks, Dhruba!",positive
+"Shit, I missed a cast.",negative
+But please don't say that my reasoning is bad - because it is not.,negative
+This might be a bug indeed.,negative
+This is clearly bad webserver behaviour.,negative
+@Ashutosh: thanks a lot for the comments.,positive
+897392Thanks Sharan !,positive
+"Looks good, thanks Laura!",positive
+That's my bad.,negative
+Thanks Andrew - the patch was applied to SQL module at r525019.,positive
+"Thank you,+ Harit Himanshu",positive
+This sucks *so much*...,negative
+"I've tried something similar (I removed the handlers and kept the readers), but the performance was not visible.",negative
+Damn...,negative
+Applied patch with thanks to Scott.,positive
+I think we all know it just sucks.,negative
+"Damn, Chuck is scary.",negative
+You would need to implement session resume; thats a whole new can of worms.,negative
+I don't have strong opinions about it either way.,negative
+This is weird.,negative
+Thank you for the patch Sergey. ,positive
+"Yes it is a dup, thanks Mike for taking care of this (I planned to do this yesterday but didn't make it)",negative
+"Sorry Avdhesh, I forgot to add these two files to the patch, here is the new patch containing the missing files",negative
+"Thanks a lot, Kiran for the patch.",positive
+This is bad.,negative
+"Sorry, I guess I'm against ""never computing this shit""... because you guys think returning NaN is ok.",negative
+sorry for delay,negative
+"And boy, hell broke loose ;)So... the biggest issue I'm facing is indeed with Random sharing across threads.",negative
+"Thanks,Arvind",positive
+Please close as this is just me being stupid.,negative
+"Thanks a lot for the reviews, Todd.",positive
+Thanks Karthik.,positive
+"Sorry for my poor review, didn't notice try/catch :(",negative
+"Seems we didn't enforce an exec for sh, but we did for fs.",negative
+"durrrh, that sucks.",negative
+"This is pretty trivial, just adds three asserts to TestPath#testNormalize.",negative
+ Automatic location selection is very cool.,positive
+All I'm trying to say is that it's pretty easy to end up in propagation failure hell here or change something else that blows things up for use cases that are not foreseen.,negative
+I don't know what just happened.,negative
+"Thanks for the report, and sorry its taken so long to fix it.",negative
+I think the correct resolution is to ensure that the prefix stack mechanism gets reset each time the XMLReader is used.,negative
+yup sorry just fixed.,negative
+A stupid bug in a patch that is already applied.,negative
+i found the class - so there is no bug - sorry,negative
+> then we don't save IO by limiting the buffer size to 1 KBI'm confused by this.,negative
+Finally closing this bug from hell.,negative
+"Thanks Areek, patch looks good!",positive
+Incidentally if we all nag Joe Walnes enough we might be able to persuade him to release a new qdox which can ignore annotations etc (though it will still struggle with generics I think),negative
+Bug in existing testDelegationTokenRestoredOnRMrestart().,negative
+"Igor is an idiot, and we *do* need gmake.",negative
+Thank you.,positive
+Sorry about that.,negative
+My bad.,negative
+Sorry for the trouble Vikram!,negative
+"Why the hell do they deliver Duration, if they cannot instantiate it :-/",negative
+(sorry if that was confusing),negative
+"Sorry Chris,I missed it, done !",negative
+This is a great suggestion.,positive
+"Thanks for reminding me; I agree, I'll do it.",positive
+{quote}searcher.getAtomicReader().getSortedDocValues(uniqueKey);{quote}This is a performance killer.,negative
+Thanks for the reviews..,positive
+I'm an idiot.,negative
+This looks safe also,positive
+Completely missed issue 614..,negative
+"Owen, thanks for the slides.",positive
+"Thanks,Mayank",positive
+This looks good to me.,positive
+Sounds weird to me...Could you package a (totally!),negative
+Seems to be failing for a different reason nowtestContainerLaunch(org.apache.hadoop.yarn.server.nodemanager.TestLinuxContainerExecutorWithMocks)  Time elapsed: 0.523 sec  <<< FAILURE!,negative
+"Sorry, I kind of forget about this one.",negative
+Sorry for the confusion :),negative
+An output connector should also have a say in what URLs it will accept.,negative
+"Well, that sucks.",negative
+Here is quite bad.,negative
+Sounds like a good idea.,positive
+"Sorry, I was trying to get to the wiki but it's been a busy week.",negative
+"Damn, it seemed it didn't work.",negative
+It is good to have the test.,positive
+Interesting that you decided not to detect the error based on finding two similarly-named operations.,positive
+Sorry that I think I missed some discussion in the mailing list.,negative
+Thanks to Mathias Werlitz - sorry for the delay.,negative
+"Thanks to both of you, and to Deepesh for the initiative.",positive
+My error.,negative
+Awesome stuff Stephen! ,positive
+I want to integrate the sweet sweet logo Andrew crafted.,positive
+"Thanks, Owen!",positive
+"I am not really sure what does the receive payment do before the shipment, it doesn't sound as if it is doing what we expect it to do.",negative
+Sounds like a good idea. ,positive
+"Thanks Oliver, that's fixed it. ",positive
+Thanks Tom!,positive
+"umm ... call me crazy, but why are we making this public?",negative
+"Actually I don't want to specify the encoding, because I don't care how the data is transported to me.",negative
+"Hi Guillaume,I did not have an answer right away, so I sent you question to Leonard Rosenthol.",negative
+Indeed that would be VERY bad design.,negative
+Maurice I don't have such option or maybe I don't know where it is.,negative
+Doing it at the hackathon you'd have a few fellas at your shoulder to give you pointers should you get stuck.,negative
+Thanks for sweet patch Erik.,positive
+sorry.,negative
+Bad IE.,negative
+"I don't have to ensure that the classloader knows groovy classes, *you* must do that.",negative
+Cool - good information to have.  Thanks Lance!,positive
+"- there were a hell of a bigger problem, though : as we were blocked in the executor until the SearchRequest was totally processed, all the responses were enqueued.",negative
+"<gmcdonald> , my bad",negative
+Sorry for the noise.,negative
+"Thanks for spotting this, fixed at r487519",positive
+I really like what I am seeing so far.,positive
+The cause is that the call to SpecificResponder.writeError in Responder.respond ultimately calls GenericData.resolveUnion which in turn calls GenericData.getSchemaName before the line where the UnresolvedUnionException gets thrown.,negative
+"I suspect it has nothing to do with the file system connector or Infinispan connectors, and is simply a (stupid) mistake in the federated join processor.",negative
+PreCommit-HDFS-Build is stuck.,negative
+"The eclipse ui was completly stuck, which was similiar to the other experinces.",negative
+"Ie, both at are bad.",negative
+"Brilliant feedback, thanks! I'm glad you found the issue, and the solution!",positive
+:)Sorry about that.,negative
+> - FOUserAgent.getStream() is cool and very easy to use (now that it's properly> documented).,positive
+Resolving again....,negative
+"I didn't do that because that seems bad in hive, so I returned ""null"" from the operation.",negative
+"HADOOP-2949: - If tarball is specified, HOD no longer validates for the pkgs directory in gridservice-hdfs or mapred sections as these are not going to be used anyway.",negative
+The samples you gave are different.,negative
+Sorry for the delay.,negative
+Thanks Brock!,positive
+My bad.,negative
+I like Richards update as well :) What I did was out of pure anger so it may not have been the sexiest.,positive
+Thanks for the patch Mubarak.,positive
+"Well it's me that didn't get the whole point, now i got more, sorry for the noise.",negative
+"Great! Awesome!thanks,Dims",positive
+"Aaarrggh, how stupid of mine  to have a System.out, again!",negative
+Imo all this just doesn't make sense from a pure performance aspect.,negative
+"I have stupidly deleted the original test dir, but judging from the suite's output files, no output was created after 3 1/2 hours.",negative
+"Qianshi is working on the SSL session reuse, but this buggy Bug system does not allow him assign this ticket, sigh",negative
+Sorry for the noise..,negative
+Thanks Alejandro .,positive
+"Many thanks, Neeme.",positive
+that's some freaky shit ...,negative
+"It sucks to lose the code readability, but it seems like a reasonable price to pay.",negative
+Sorry - the above comes across as terse.,negative
+Awesome work: this is a great first cut!,positive
+"Hell, this is gonna take me a lot of work to raise.",negative
+"Thanks Atul,Your patch is in trunk at r933169I just added some ""mod for OFBiz layered lookups"" comments around changes as suggested Sascha",positive
+"Some file were missing in the last patch, sorry.",negative
+Thanks Ashutosh and Gunther for your help!,positive
+Doh!,negative
+I screwed up the encoding of the stopwords file (sorry).,negative
+"Ah, damn, I thought it was fixed :/Guillaume ?",negative
+"Sorry, yes I believe this has been resolved.",negative
+Pull it back in if you think different.,negative
+What a stupid name I chose for that object... )-:,negative
+sorry for misleading attachment name.,negative
+"The guy on our team that was going to do this was swamped, so I re-assigned this to you.",negative
+This looks simple and sweet to me.,positive
+Sorry ;-),negative
+"As far as the query shit, i have no idea if solrdispatchfilter or whatever could/should do Thread.currentThread().setName(x) or whatever (and maybe restore after)",negative
+My bad.,negative
+"Secondly reading this code I can see why this bug is happening, after completing stage 2 above when adding the new item the code does ""ordered - cancelled = quantity"" which equates to ""1 - 1 = 0"".",negative
+Thanks Awdesh - Done at r821748.,positive
+Sorry - the federated build is still working out kinks...,negative
+"Super, I'll commit shortly -- thanks Yonik!",positive
+sorry for your time.,negative
+Damn !,negative
+This sucks badly.,negative
+Sorry but this is just stupid.,negative
+"Awesome, you rock, Drew!",positive
+"If that would be the case, this would be bad design.",negative
+I've tested them out and everything is fine.,positive
+This is only a problem with exceptions from java.,negative
+"Aaron, sorry about this.",negative
+The rest are *totally* unrelated.,negative
+"[~cmccabe]: oh, hell no!",negative
+"Turning off hints is basically intended as a ""oh shit, something is broken with hints, let's turn it off"" switch.",negative
+Damn it !,negative
+I think it's time to just close this issue.,negative
+Thanks Ashish!,positive
+Damn...,negative
+"Aha,, thanks for the information. That makes sense. Glad to hear that it helped! :)",positive
+"Ah, that was my bad.",negative
+ah - my bad.,negative
+"Thanks, Sanjay!",positive
+fuck u,negative
+Cheers!,positive
+Thanks for doing that Uma.,positive
+Thanks Dianne!,positive
+"My bad, this is already done.",negative
+huh ... i thought i did resolve this.,negative
+"Hell, UnaryFunction might even be faster than all of these calls in a row.",negative
+I'm an idiot.,negative
+Thanks senaka for the patch.,positive
+"Oh, I didn't consider one flow like after the edit log conversion, immediately #store failed.",negative
+Forget the patch for the moment.,negative
+ I like the elegant parser!  ,positive
+I would love to have it right now for storm too. If you want me to sign up as a use case I am happy to.,positive
+"Brandon, sorry.",negative
+"Ugh, sorry :(  Thanks!",negative
+bq. OK w/ the latest patch all tests pass for me! Great Awesome! :),positive
+"It is a nasty bug that I've seen in real life, though.",negative
+I am new to Mina and the whole environment.,negative
+Awesome - great stuff Maria.  Thanks!,positive
+Ok. Stupid user Error here.,negative
+Sorry about that...,negative
+"To upgrade to a recent version of Jackrabbit, see http://wiki.apache.org/jackrabbit/BackupAndMigrationI'm afraid I can't say much about the risk.",negative
+Sorry GavDONECommitted @revision 2487.,negative
+"Mac, looks like the tests are failing (especially TestHarFileSystem).",negative
+I'm glad we were able to resolve this issue.,positive
+My patch wouldn't compile.,negative
+Will still be stuck in the loop though if can't actually close regions.,negative
+Thanks henry and pat... we'll have to re submit all the PA's so trigger hudson.,positive
+"Someone, but I'm not sure who, owes me a public apology here.  /Larry  ",negative
+"Thanks, Daryn!",positive
+cool man it looks good. we need a changes entry but from my side this looks good. we can tackle the todos on trunk,positive
+Oh man ... it's a fucking precendence problem.,negative
+"Yep, my bad.",negative
+Patch applied with thanks!,positive
+"Hi Carlos, This looks awesome! Lots of cool stuff.",positive
+Excuse me for stolen assignement.,negative
+"I opened [HADOOP-3607] to fix a wrong URL, but appart from that I don't there's still references to the old structure.",negative
+"Cool, looks good.",positive
+I meet the same problem on Eclipse recently but haven't figured out how to get through.,negative
+"Thanks, Ashish!",positive
+Thanks!,positive
+{quote}You are messing down deep below hbase in dfs.,negative
+"Thanks Andrew, committed in rev.",positive
+"@mahadev - I would love to help test a patch :) I'm currently using 3.3.1 + ZOOKEEPER-744 + ZOOKEEPER-790, applied in that order.",positive
+"Thanks a lot for sharing that, Josh!",positive
+Weird.,negative
+"Thanks, Mike!",positive
+Sorry.,negative
+"Hi Sandy,Thanks so much to give me such comments, that's really helpful, I will update this later.",positive
+Tried some more stuff and realized I was doing it wrong.,negative
+"Thanks for the very clear explanation of the needed change, Dag.",positive
+This patch really helped.,positive
+"Daryn, the current patch looks good.",positive
+The biggest problem is that we've had too many committers over the years and we'd have to get all of their permission to change it.,negative
+thanks for the explanation.,positive
+Weird.,negative
+"The patch should be relatively trivial, but like I said, I have no idea if there is other important stuff going on there or not.",negative
+Splitting an existing sub-shard gets stuck up.,negative
+"And debugging is hell, because the test environment needs to have the exact same loader setup.",negative
+"Holy complicated-as-shit-algorithm, Batman!The complexity of our implementation vs the complexity of what we're actually doing is starting to worry me here.",negative
+Sorry about that.,negative
+Patch looks good to me.,positive
+Thanks for the patch Erik (and Jon),positive
+Version 2.2.0RC3 is fine.,positive
+"Because, we don't care for this in cases where we there is no node that is down.",negative
+> I hated that aspect of working for commercial companies.,negative
+Please contact me if you need any clarifications.,positive
