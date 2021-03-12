@@ -91,3 +91,12 @@ If you have any problems, feel free to contact Ting Zhang (tingzhang.2019@phdcs.
 
 # Cite
 If you find this repo useful, please consider to cite our work.
+
+@inproceedings{zhang2020sentiment,
+  title={Sentiment Analysis for Software Engineering: How Far Can Pre-trained Transformer Models Go?},
+  author={Zhang, Ting and Xu, Bowen and Thung, Ferdian and Haryono, Stefanus Agus and Lo, David and Jiang, Lingxiao},
+  booktitle={2020 IEEE International Conference on Software Maintenance and Evolution (ICSME)},
+  pages={70--80},
+  year={2020},
+  organization={IEEE}
+}
