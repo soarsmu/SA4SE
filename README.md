@@ -91,7 +91,7 @@ If you have any problems, feel free to contact Ting Zhang (tingzhang.2019@phdcs.
 
 # Cite
 If you find this repo useful, please consider to cite our work.
-
+```
 @inproceedings{zhang2020sentiment,
   title={Sentiment Analysis for Software Engineering: How Far Can Pre-trained Transformer Models Go?},
   author={Zhang, Ting and Xu, Bowen and Thung, Ferdian and Haryono, Stefanus Agus and Lo, David and Jiang, Lingxiao},
@@ -100,3 +100,4 @@ If you find this repo useful, please consider to cite our work.
   year={2020},
   organization={IEEE}
 }
+```
