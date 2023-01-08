@@ -4,7 +4,7 @@ In total, we run (5 + 4) * 6 = 54 experiments. Among them, we directly predict t
 Do remember to change your file name or location of the data into the scripts.
 # Datasets
 Six datasets have been used. The sources of these datasets are noted in the paper. Credit to the original authors. You can download the original datasets in the following sources.
-- API Reviews (Downloaded from https://github.com/giasuddin/OpinionValueTSE/blob/master/BenchmarkUddinSO-ConsoliatedAspectSentiment.xls)
+- API Reviews (Downloaded from https://github.com/giasuddin/OpinionValueTSE/blob/master/ConsolidatedMentionResolutionBenchmark.xls)
 - APP Reviews (Downloaded from https://sentiment-se.github.io/replication.zip)
 - Code Reviews (Download from https://github.com/senticr/SentiCR/blob/master/SentiCR/oracle.xlsx)
 - GitHub Comments (Downloaded from https://doi.org/10.6084/m9.figshare.11604597)
