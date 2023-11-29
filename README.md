@@ -23,10 +23,10 @@ Download from: https://laser.cs.uno.edu/Projects/Projects.html
 ### SentiCR
 Source code:https://github.com/senticr/SentiCR
 ### Senti4SD
-Source code: https://github.com/collab-uniba/pySenti4SD
+Source code: https://github.com/collab-uniba/pySenti4SD or https://github.com/collab-uniba/Senti4SD
 
 ## Pre-trained Transformer-based Language Models
-We used pre-trained BERT, XNLet, RoBERTa, ALBERT models. We use huggingface library: https://huggingface.co/transformers/
+We used pre-trained BERT, XNLet, RoBERTa, and ALBERT models. We use huggingface library: https://huggingface.co/transformers/
 
 # Scripts
 ## Pre-trained Transformer-based language models
@@ -41,9 +41,11 @@ The data used by this group as located in [PTM folder](./data/PTM/)
 After cloning this [repo](https://github.com/senticr/SentiCR), you have to modify the training oracle and its corresponding test part. We also put the modified script in [SentiCR.py](./scripts/SentiCR/SentiCR.py) and [SenticrTest.py](./scripts/SentiCR/SenticrTest.py). You can replace our scripts in your cloned SentiCR repo to run the test. You should notice that you have to use the same training and test dataset. For example, use training oracle (GitHub dataset) and test file (GitHub dataset).
 
 ## Senti4SD
-After your clone this [repo](https://github.com/collab-uniba/pySenti4SD), just run the following command without re-training:
+After your clone the [Senti4SD](https://github.com/collab-uniba/pySenti4SD) or [pySenti4SD](https://github.com/collab-uniba/Senti4SD), just run the following command without re-training:
+
 ```bash
-sh classification.sh -i test_dataset.csv -o predictions.csv
+sh classification.sh -i test_dataset.csv -o predictions.csv or
+sh classification.sh test_dataset.csv predictions.csv
 ```
 
 After getting the predictions, please run [Senti4SD.py](./scripts/analyze-results/Senti4SD.py) to analyze the prediction performance.
